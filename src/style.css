@@ -266,8 +266,6 @@ html {
   justify-content: center;
 }
 
-.displayed-image {
-}
 .displayed-image > img{
   width: 100%;
 }
