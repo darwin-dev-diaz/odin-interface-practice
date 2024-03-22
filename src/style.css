@@ -152,6 +152,11 @@ html {
 
 .create-button--clicked {
   transform: rotate(45deg);
+  background-color: #e74c3c;
+}
+.create-button--clicked:hover {
+  transform: rotate(45deg);
+  background-color: #b63e30 !important;
 }
 .create-icon {
   fill: white;
